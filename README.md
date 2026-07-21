@@ -9,7 +9,7 @@ AppSec portfolios are built differently from software-engineering ones. What car
 
 ## In Progress
 
-- Phase 0 — [**Docker Practice**](https://github.com/KLabWeb/cybersecurity-portfolio/tree/master/Phase%2000/00-04%20Docker%20Practice) (Phase 0) — Docker commands practice script & practice Dockerfile
+- Phase 0 — [**Docker Practice**](https://github.com/KLabWeb/cybersecurity-portfolio/tree/master/Phase%2000/00-04%20Docker%20Practice) — Docker commands practice script & practice Dockerfile
 
 ## Planned
 

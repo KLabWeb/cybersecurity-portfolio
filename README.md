@@ -6,7 +6,7 @@ AppSec portfolios are built differently from software-engineering ones. What car
 
 ## Completed
 
-- Phase 0 — [**Docker Review — Containerized Uvicorn + FastAPI**](https://github.com/KLabWeb/cybersecurity-portfolio/tree/master/Phase%2000/00-04%20Docker%20Review%20-%20Containerized%20Uvicorn%20%2B%20FastAPI) — review of docker via containerization of a Uvicorn served FastAPI app, end-to-end, with a hardened Dockerfile (non-root user, minimal image), Docker Compose, and image/volume/network management across the full container lifecycle
+- Phase 0 — [**Docker Review — Containerized Uvicorn + FastAPI**](https://github.com/KLabWeb/cybersecurity-project-00-04-docker-review) — review of docker via containerization of a Uvicorn served FastAPI app, end-to-end, with a hardened Dockerfile (non-root user, minimal image), Docker Compose, and image/volume/network management across the full container lifecycle
 
 ## In Progress
 

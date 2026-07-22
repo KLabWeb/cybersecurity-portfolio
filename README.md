@@ -10,11 +10,10 @@ AppSec portfolios are built differently from software-engineering ones. What car
 
 ## In Progress
 
-
-## Planned
-
 **Phase 0 — Foundations**
 - FastAPI refresher app — a small app built from the official docs, reused as the local lab throughout the plan
+
+## Planned
 
 **Phase I — AppSec Intro**
 - First offensive lab environment and initial WebGoat exploitation
